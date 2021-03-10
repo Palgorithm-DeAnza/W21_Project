@@ -8,7 +8,7 @@
 ## Members
 Bea, Seungwoo, Aurielle, Luna, Siwoo, Jinhyuk, Raymond
 
-Abel, Sharon, Shinnosuke, Dasom, Jaeeun, Sera, 
+Abel, Sharon, Shinnosuke, Dasom, Jaeeun, Sera, Seungpil
 
 
 ## Installation
